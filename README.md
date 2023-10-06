@@ -1,30 +1,22 @@
 # Papers
 
-https://www.youtube.com/watch?v=ZL1REKBGnSA&list=PL_1kmBlWRPQlZjg5ByFgzJ1wvXPHg6IzX
+Youtube playlist: https://www.youtube.com/watch?v=ZL1REKBGnSA&list=PL_1kmBlWRPQlZjg5ByFgzJ1wvXPHg6IzX
 
 ## 2023-09-08 - Using Prolog for Rapid Prototyping of Telecommunication Systems
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZL1REKBGnSA?si=tt-K0HcKG55hNzLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
- - see: https://www.youtube.com/watch?v=ZL1REKBGnSA
+ - watch on youtube: https://www.youtube.com/watch?v=ZL1REKBGnSA
 
 ## 2023-09-15 - Erlang - An Experimental Telephony Programming Language
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eHHqDcmbZmg?si=mGHkNu9zon-ESTDN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
- - see: https://www.youtube.com/watch?v=eHHqDcmbZmg&list=PL_1kmBlWRPQlZjg5ByFgzJ1wvXPHg6IzX
+ - watch on youtube: https://www.youtube.com/watch?v=eHHqDcmbZmg
 
 ## 2023-09-22 - Use of Prolog for developing a new programming language
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sD0vSCn6Ek8?si=sNvhSy8aDq1jgJwv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
- - see: https://www.youtube.com/watch?v=sD0vSCn6Ek8&list=PL_1kmBlWRPQlZjg5ByFgzJ1wvXPHg6IzX
+ - watch on youtube: https://www.youtube.com/watch?v=sD0vSCn6Ek8
 
 ## 2023-09-29 - Implementing a functional language for highly paallel real time Application
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FWnUmRJivNU?si=EH7QXmq5hVOMEJC8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
- - see: https://www.youtube.com/watch?v=FWnUmRJivNU&list=PL_1kmBlWRPQlZjg5ByFgzJ1wvXPHg6IzX
+ - watch on youtube: https://www.youtube.com/watch?v=FWnUmRJivNU
 
 ## 2023-10-13 - Carpe Diem (Some Implementation Aspect of Turbo Erlang)
 
